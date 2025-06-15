@@ -50,8 +50,7 @@ Enter student grade: 91.5
    Name: Alice, Grade: 91.5 Average Grade: 91.5 Highest Grade: 91.5 Lowest Grade: 91.5
 
 ---
-   
-##📁 How to Run the Program
+#📁 How to Run the Program
 
 You can run this Java program in any IDE or online compiler. Here's how to do it manually:
 
@@ -67,7 +66,7 @@ Real-world application of basic data structures
 ---
 
 
-##👩‍💻 Author
+#👩‍💻 Author
 
 Sangamithra D
 🎓 B.E. CSE, KCG College of Technology
