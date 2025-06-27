@@ -73,3 +73,4 @@ Sangamithra D
 💼 Java Intern @ CodeAlpha
 📧 Email: 9123104141@kcgcollege.com
 🌐 GitHub: @sangamithraD
+Linked In Post: [https://www.linkedin.com/posts/sangamithra-d-8a4092301_codealpha-javainternship-studentgradetracker-activity-7344387337943986176-tEOW?utm_source=share&utm_medium=member_android&rcm=ACoAAE0Te3wBDPpSmrzX8PUb8qeOgFjMumrLltk]
